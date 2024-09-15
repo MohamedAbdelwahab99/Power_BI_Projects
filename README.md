@@ -10,4 +10,5 @@ SALES DASHBOARD
   ● Delivered insights on revenue distribution across regions and the performance of various product categories,
      leading to better strategic decisions.
      [Sales Analysis Dashboard] (https://github.com/MohamedAbdelwahab99/Power_BI_Projects/blob/main/Sales%20Dashboard.png)
+     sales.pbix (https://github.com/MohamedAbdelwahab99/Power_BI_Projects/blob/main/sales.pbix)
      
